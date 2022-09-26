@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+}
+main{
+    width: 1200px;
+    margin-left: 10px;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-size:contain;
+    background-color: lightblue;
+    
+    
+    
+
+}
+
+#logosvg{
+    height: 150px;
+    width: 150px;
+    
+}
+#giallo{
+    background-color: yellow;
+}
+#lista{
+    margin-top: 10px;
+}
+
+.grigio{
+    color: grey;
+}
+.grigio.text{
+    font-size: 12px;
+}
+.margine{
+    margin-top: 20px;
+}
+.size{
+    font-size: 12px;
+}
+#tabella{
+    margin-top: 10px;
+    border-collapse: collapse;
+    width: 100%;
+
+
+}
+th{
+    background-color: lightseagreen;
+    color: white;
+    
+    
+}
+.riga1{
+    padding: 8px;
+    background-color: lightblue;
+    
+}
+.riga2{
+    padding: 8px;
+    
+    
+}
